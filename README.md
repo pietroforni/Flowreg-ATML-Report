@@ -14,5 +14,5 @@ training stability, and action-conditioned latent dynamics.
 **Authors:** Pietro Bernardo Maria Forni,
 Luigi Tisci, Matteo Vitali.
 
-- [Technical Report](FlowReg_Report.pdf)
+- [Technical Report](ATML_Report.pdf)
 - [Group Source Code](https://github.com/Whitefield64/FlowReg-ATMLproject-USI)
